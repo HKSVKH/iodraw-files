@@ -37,7 +37,7 @@
         <mxCell id="SqsvpsJ_uz-A0xwtKUsz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SqsvpsJ_uz-A0xwtKUsz-4" target="SqsvpsJ_uz-A0xwtKUsz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-20">
+        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-21" value="调用功能模块&lt;div&gt;完成对无人机的控制&lt;/div&gt;&lt;div&gt;以及信息的获取&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-20">
           <mxGeometry x="-0.1723" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
