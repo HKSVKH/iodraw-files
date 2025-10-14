@@ -20,13 +20,19 @@
           <mxGeometry x="640" y="520" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f2MOX87ExMHeG8H-qzv3-10" value="电机" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2MOX87ExMHeG8H-qzv3-11" value="R8FM" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2MOX87ExMHeG8H-qzv3-12" value="蜂鸣器" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f2MOX87ExMHeG8H-qzv3-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="620" as="sourcePoint" />
+            <mxPoint x="960" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
