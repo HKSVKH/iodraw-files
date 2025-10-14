@@ -165,10 +165,20 @@
             <mxPoint x="1130" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-48" value="控制蜂鸣器相应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-41">
+          <mxGeometry x="-0.0017" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SqsvpsJ_uz-A0xwtKUsz-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.79;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f2MOX87ExMHeG8H-qzv3-9" target="f2MOX87ExMHeG8H-qzv3-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="140" as="sourcePoint" />
             <mxPoint x="1030" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-42">
+          <mxGeometry x="0.0533" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SqsvpsJ_uz-A0xwtKUsz-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.987;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f2MOX87ExMHeG8H-qzv3-9" target="f2MOX87ExMHeG8H-qzv3-10">
