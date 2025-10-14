@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f2MOX87ExMHeG8H-qzv3-22" value="舵机" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="620" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2MOX87ExMHeG8H-qzv3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f2MOX87ExMHeG8H-qzv3-22" target="f2MOX87ExMHeG8H-qzv3-9">
           <mxGeometry relative="1" as="geometry">
