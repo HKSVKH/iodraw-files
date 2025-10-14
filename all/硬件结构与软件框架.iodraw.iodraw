@@ -35,7 +35,7 @@
           <mxGeometry x="560" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SqsvpsJ_uz-A0xwtKUsz-4" value="功能模块" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SqsvpsJ_uz-A0xwtKUsz-5" value="图像处理模块" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="760" y="900" width="120" height="60" as="geometry" />
