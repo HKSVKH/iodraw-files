@@ -58,7 +58,7 @@
             <mxPoint x="1120" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-15" value="定位数据通过通信模块发送给飞控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-13">
+        <mxCell id="SqsvpsJ_uz-A0xwtKUsz-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;定位数据通过通信模块发送给飞控&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SqsvpsJ_uz-A0xwtKUsz-13">
           <mxGeometry x="-0.0778" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
