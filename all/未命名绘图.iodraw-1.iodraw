@@ -101,6 +101,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TwO5CKPvJsxa9SVv0d0v-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TwO5CKPvJsxa9SVv0d0v-11" target="TwO5CKPvJsxa9SVv0d0v-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TwO5CKPvJsxa9SVv0d0v-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TwO5CKPvJsxa9SVv0d0v-23">
+          <mxGeometry x="0.04" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TwO5CKPvJsxa9SVv0d0v-11" value="是否有新航点" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="520" width="100" height="80" as="geometry" />
         </mxCell>
@@ -136,7 +144,7 @@
           <mxGeometry x="440" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TwO5CKPvJsxa9SVv0d0v-22" value="起飞" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry y="540" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
