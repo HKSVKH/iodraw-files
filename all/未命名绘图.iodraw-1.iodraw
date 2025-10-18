@@ -93,7 +93,7 @@
         <mxCell id="TwO5CKPvJsxa9SVv0d0v-9" value="遥控器是否&lt;div&gt;发送&lt;span style=&quot;background-color: initial;&quot;&gt;起飞命令&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="240" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TwO5CKPvJsxa9SVv0d0v-11" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TwO5CKPvJsxa9SVv0d0v-11" value="是否有新航点" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="520" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
